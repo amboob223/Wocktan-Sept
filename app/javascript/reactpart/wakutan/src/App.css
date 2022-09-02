@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+.navitems{
+  display:flex;
+  margin:2%;
+  position: static;
+}
+
+.nav{
+  display: flex;
+  justify-content: center;
+}
+
+.navitems>li{
+  margin:5%;
+  list-style: none;
+
+}
+
+.navlink{
+  text-decoration: none;
+}
+
+.drop{
+  position:fixed;
+  justify-content: center;
+}
+
+.dropitems{
+  text-decoration: none;
+  justify-content: center;
+  list-style: none;
+}
+
+.droplist{
+  list-style: none;
+  background-color: antiquewhite;
+}
+
+

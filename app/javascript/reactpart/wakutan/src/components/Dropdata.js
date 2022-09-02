@@ -1,0 +1,27 @@
+export const Dropdata = [
+    {
+        name:"Krio",
+        path:"/krio",
+        cname:"dropitems"
+    },
+    {
+        name:"Wolof",
+        path:"/wolof",
+        cname:"dropitems"
+    },
+    {
+        name:"Ebonics",
+        path:"/ebonics",
+        cname:"dropitems"
+    },
+    {
+        name:"Twi",
+        path:"/twi",
+        cname:"dropitems"
+    },
+    {
+        name:"Patwah",
+        path:"/patwah",
+        cname:"dropitems"
+    }
+]
